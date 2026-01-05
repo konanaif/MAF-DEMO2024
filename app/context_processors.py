@@ -21,8 +21,6 @@ ALGORITHM_NAME2ID = {
     "CalibratedEqOdds": "ceo",
     "EqualizedOdds": "eo",
     "RejectOptionClassifier": "roc",
-    "CasualPathTracing": "cpt",
-    "Ember": "ember",
     # image-inprocessing
     "FairDimensionFiltering": "fdf",
     "FairFeatureDistillation": "ffd",
